@@ -14,4 +14,7 @@ A curated list of must read Quant-Books
 - Karatzas, I. and Shreve, S.E. (1991). [Brownian motion and stochastic calculus](https://link.springer.com/book/10.1007/978-1-4612-0949-2) 2nd ed. New York: Springer.
 - Øksendal, B. (2003) [Stochastic differential equations: an introduction with applications.](https://doi.org/10.1007/978-3-642-14394-6) 6th Edition, Springer, New York.
   - Available online [(5th Edition)](https://www.math.ucdavis.edu/~babson/280-F22/references/Stoch.pdf)
+
+## Foundations & General Quantitative Finance
 - Privault, N. (2022). [Introduction to Stochastic Finance with Market Examples.](https://www.taylorfrancis.com/books/mono/10.1201/9781003298670/introduction-stochastic-finance-market-examples-nicolas-privault) Chapman and Hall/CRC.
+- Privault, N. (2025). [Notes on Stochastic Finance.](https://personal.ntu.edu.sg/nprivault/MA5182/introduction2.pdf)
