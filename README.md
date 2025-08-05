@@ -14,6 +14,8 @@ A curated list of must read Quant-Books
 - Karatzas, I. and Shreve, S.E. (1991). [Brownian motion and stochastic calculus](https://link.springer.com/book/10.1007/978-1-4612-0949-2) 2nd ed. New York: Springer.
 - Øksendal, B. (2003) [Stochastic differential equations: an introduction with applications.](https://doi.org/10.1007/978-3-642-14394-6) 6th Edition, Springer, New York.
   - Available online [(5th Edition)](https://www.math.ucdavis.edu/~babson/280-F22/references/Stoch.pdf)
+- Shreve, S.E. (2004) [Stochastic Calculus for Finance I: The Binomial Asset Pricing Model.](https://link.springer.com/book/10.1007/978-0-387-22527-2) Springer, New York.
+  - Available online [Here](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_Shreve_Stochastic_Calculus_for_Finance_I.pdf) 
  
 ## Monte Carlo and Computational Methods
 
