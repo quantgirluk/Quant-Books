@@ -14,7 +14,17 @@ A curated list of must read Quant-Books
 - Karatzas, I. and Shreve, S.E. (1991). [Brownian motion and stochastic calculus](https://link.springer.com/book/10.1007/978-1-4612-0949-2) 2nd ed. New York: Springer.
 - Øksendal, B. (2003) [Stochastic differential equations: an introduction with applications.](https://doi.org/10.1007/978-3-642-14394-6) 6th Edition, Springer, New York.
   - Available online [(5th Edition)](https://www.math.ucdavis.edu/~babson/280-F22/references/Stoch.pdf)
+ 
+## Monte Carlo and Computational Methods
+
+- Glasserman, P. (2004) [Monte Carlo methods in financial engineering.](https://link.springer.com/book/10.1007/978-0-387-21617-1) Springer, NewYork. https://doi.org/10.1007/978-0-387-21617-1
+  - Available online [Here](https://www.bauer.uh.edu/spirrong/Monte_Carlo_Methods_In_Financial_Enginee.pdf) 
 
 ## Foundations & General Quantitative Finance
 - Privault, N. (2022). [Introduction to Stochastic Finance with Market Examples.](https://www.taylorfrancis.com/books/mono/10.1201/9781003298670/introduction-stochastic-finance-market-examples-nicolas-privault) Chapman and Hall/CRC.
 - Privault, N. (2025). [Notes on Stochastic Finance.](https://personal.ntu.edu.sg/nprivault/MA5182/introduction2.pdf)
+
+## Rates
+
+- Brigo, D. and Mercurio, F. (2006) Interest Rate Models—Theory and Practice, with Smile, Inflation and Credit. 2nd Edition, Springer, Berlin, 26-62.
+  - Available online [Here](https://nzdr.ru/data/media/biblio/kolxoz/F/FB/Brigo%20D.,%20Mercurio%20F.%20Interest%20Rate%20Models%20-%20Theory%20and%20Practice%20(Springer,%202006)(ISBN%203540221492)(1014s)_FB_.pdf)
