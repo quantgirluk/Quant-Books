@@ -7,7 +7,7 @@ A curated list of must read Quant-Books
 - Bergomi, L. (2015), [Stochastic volatility modeling.](https://www.routledge.com/Stochastic-Volatility-Modeling/Bergomi/p/book/9781482244069?utm_source=author&utm_medium=shared_link&utm_campaign=B043137_jm1_5ll_6rm_t081_1al_stochasticvolatilitymodelingauthorshare) First edition., Chapman and Hall/CRC, an imprint of Taylor and Francis, Boca Raton, FL.
 
 ## Probability Theory
-- Capinski, M. and Kopp, E., 2004. [Measure, integral and probability](https://link.springer.com/book/10.1007/978-1-4471-0645-6). 2nd ed. London: Springer.
+- Capinski, M. and Kopp, E., (2004). [Measure, integral and probability](https://link.springer.com/book/10.1007/978-1-4471-0645-6). 2nd ed. London: Springer.
   - [Available online](https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Marek-Capinski-Peter-E.-Kopp-Measure-integral-and-probability-Springer-2004.pdf)
 
 ## Statistics
@@ -37,6 +37,8 @@ https://doi.org/10.1007/978-1-4757-4296-1
   - Available online [Here](https://www.bauer.uh.edu/spirrong/Monte_Carlo_Methods_In_Financial_Enginee.pdf) 
 
 ## Foundations & General Quantitative Finance
+
+- Hull, J. (2014) [Options, Futures and Other Derivatives.](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) 9th Edition, Prentice Hall, Upper Saddle River.
 - Privault, N. (2022). [Introduction to Stochastic Finance with Market Examples.](https://www.taylorfrancis.com/books/mono/10.1201/9781003298670/introduction-stochastic-finance-market-examples-nicolas-privault) Chapman and Hall/CRC.
 - Privault, N. (2025). [Notes on Stochastic Finance.](https://personal.ntu.edu.sg/nprivault/MA5182/introduction2.pdf)
 
