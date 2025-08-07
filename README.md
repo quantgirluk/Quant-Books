@@ -24,7 +24,13 @@ A curated list of must read Quant-Books
 - Shreve, S.E. (2004) [Stochastic Calculus for Finance II Continuous-Time Models.](https://link.springer.com/book/9780387401010) Springer, Berlin.
 https://doi.org/10.1007/978-1-4757-4296-1
   - Available online [Here](https://www.scirp.org/reference/referencespapers?referenceid=2535881)
+
+## Malliavin Calculus
+
+- Alos, E., & Lorite, D.G. (2024). [Malliavin Calculus in Finance: Theory and Practice (2nd ed.).](https://www.taylorfrancis.com/books/mono/10.1201/9781032636382/malliavin-calculus-finance-elisa-alos-david-garcia-lorite) Chapman and Hall/CRC. https://doi.org/10.1201/9781032636382
+  - Available online [(1st edition)](https://probability.knu.ua/userfiles/myus/Alos,%20David%20Garcia%20Lorite%20-%20Malliavin%20Calculus%20in%20Finance_%20Theory%20and%20Practice-Chapman%20and%20Hall_CRC%20(2021)%20(1).pdf)
  
+    
 ## Monte Carlo and Computational Methods
 
 - Glasserman, P. (2004) [Monte Carlo methods in financial engineering.](https://link.springer.com/book/10.1007/978-0-387-21617-1) Springer, NewYork. https://doi.org/10.1007/978-0-387-21617-1
