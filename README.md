@@ -1,6 +1,11 @@
 # Quant-Books
 A curated list of must read Quant-Books
 
+## Volatility 
+
+- Gatheral, J. (2006) [The Volatility Surface: A Practitioners Guide.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202073) John Wiley and Sons, New York.
+- Bergomi, L. (2015), [Stochastic volatility modeling.](https://www.routledge.com/Stochastic-Volatility-Modeling/Bergomi/p/book/9781482244069?utm_source=author&utm_medium=shared_link&utm_campaign=B043137_jm1_5ll_6rm_t081_1al_stochasticvolatilitymodelingauthorshare) First edition., Chapman and Hall/CRC, an imprint of Taylor and Francis, Boca Raton, FL.
+
 ## Probability Theory
 - Capinski, M. and Kopp, E., 2004. [Measure, integral and probability](https://link.springer.com/book/10.1007/978-1-4471-0645-6). 2nd ed. London: Springer.
   - [Available online](https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Marek-Capinski-Peter-E.-Kopp-Measure-integral-and-probability-Springer-2004.pdf)
