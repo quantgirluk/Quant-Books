@@ -51,6 +51,10 @@ https://doi.org/10.1007/978-1-4757-4296-1
 - Brigo, D. and Mercurio, F. (2006) Interest Rate Models—Theory and Practice, with Smile, Inflation and Credit. 2nd Edition, Springer, Berlin, 26-62.
   - Available online [Here](https://nzdr.ru/data/media/biblio/kolxoz/F/FB/Brigo%20D.,%20Mercurio%20F.%20Interest%20Rate%20Models%20-%20Theory%20and%20Practice%20(Springer,%202006)(ISBN%203540221492)(1014s)_FB_.pdf)
 
+- Andersen, L.B.G. and Piterbarg, V.V. (2010) Interest Rate Modeling. Volume 1: Foundations and Vanilla Models. Atlantic Financial Press.
+  Andersen, L.B.G. and Piterbarg, V.V. (2010) Interest Rate Modeling. Volume 2: Term Structure Models. Atlantic Financial Press.
+  Andersen, L.B.G. and Piterbarg, V.V. (2010) Interest Rate Modeling. Volume 3: Products and Risk Management. Atlantic Financial Press.
+  - Available [Here](https://archive.org/details/interest-rate-modeling-volumes-1-2-3-andersen-l.-b.-g.-piterbarg-v.-v.-z-library/page/XIII/mode/2up)
 
 ## Time Series
 
