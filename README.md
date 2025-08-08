@@ -46,4 +46,9 @@ https://doi.org/10.1007/978-1-4757-4296-1
 
 - Brigo, D. and Mercurio, F. (2006) Interest Rate Models—Theory and Practice, with Smile, Inflation and Credit. 2nd Edition, Springer, Berlin, 26-62.
   - Available online [Here](https://nzdr.ru/data/media/biblio/kolxoz/F/FB/Brigo%20D.,%20Mercurio%20F.%20Interest%20Rate%20Models%20-%20Theory%20and%20Practice%20(Springer,%202006)(ISBN%203540221492)(1014s)_FB_.pdf)
-    
+
+
+## Time Series
+
+- Tsay, R.S. (2010) [Analysis of Financial Time Series.](https://doi.org/10.1002/9780470644560) 3rd Edition, John Wiley & Sons, Hoboken.
+  - Available [Here](https://agorism.dev/book/finance/time-series/Ruey%20S.%20Tsay%20-%20Analysis%20of%20Financial%20Time%20Series%2C%20Third%20Edition%20%28Wiley%20Series%20in%20Probability%20and%20Statistics%29-John%20Wiley%20%26%20Sons%20%282010%29.pdf)
