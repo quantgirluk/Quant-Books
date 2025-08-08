@@ -46,7 +46,7 @@ https://doi.org/10.1007/978-1-4757-4296-1
 - Privault, N. (2022). [Introduction to Stochastic Finance with Market Examples.](https://www.taylorfrancis.com/books/mono/10.1201/9781003298670/introduction-stochastic-finance-market-examples-nicolas-privault) Chapman and Hall/CRC.
 - Privault, N. (2025). [Notes on Stochastic Finance.](https://personal.ntu.edu.sg/nprivault/MA5182/introduction2.pdf)
 
-## Rates
+## Interest Rates
 
 - Brigo, D. and Mercurio, F. (2006) Interest Rate Models—Theory and Practice, with Smile, Inflation and Credit. 2nd Edition, Springer, Berlin, 26-62.
   - Available online [Here](https://nzdr.ru/data/media/biblio/kolxoz/F/FB/Brigo%20D.,%20Mercurio%20F.%20Interest%20Rate%20Models%20-%20Theory%20and%20Practice%20(Springer,%202006)(ISBN%203540221492)(1014s)_FB_.pdf)
