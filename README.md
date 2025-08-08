@@ -14,6 +14,10 @@ A curated list of must read Quant-Books
 
 - Casella, G. and Berger, R.L. (2002) Statistical Inference. 2nd Edition, Duxbury Press, Pacific Grove.
   - Available online [(2nd Edition)](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
+- Hastie, T., Tibshirani, R., & Friedman, J. (2009). [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://doi.org/10.1007/978-0-387-84858-7) (2nd ed.). Stanford, CA: Stanford University.
+  - Available [online](https://www.google.com/search?client=safari&rls=en&q=The+Elements+of+Statistical+Learning&ie=UTF-8&oe=UTF-8) 
+
+
 
 ## Stochastic Calculus
 - Karatzas, I. and Shreve, S.E. (1991). [Brownian motion and stochastic calculus](https://link.springer.com/book/10.1007/978-1-4612-0949-2) 2nd ed. New York: Springer.
