@@ -5,6 +5,8 @@ A curated list of must read Quant-Books
 
 - Bossu, Sébastien. (2014) [Advanced Equity Derivatives : Volatility and Correlation.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118835364) 1st edition. Hoboken, New Jersey: John Wiley & Sons, Print.
 
+- Bouzoubaa, M. (2014) [Equity Derivatives Explained.](https://link.springer.com/book/10.1057/9781137335548#accessibility-information) Palgrave Macmillan UK.
+
 
 ## Foundations & General Quantitative Finance
 
