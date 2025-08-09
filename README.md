@@ -55,6 +55,10 @@ https://doi.org/10.1007/978-1-4757-4296-1
   Andersen, L.B.G. and Piterbarg, V.V. (2010) Interest Rate Modeling. Volume 2: Term Structure Models. Atlantic Financial Press.
   Andersen, L.B.G. and Piterbarg, V.V. (2010) Interest Rate Modeling. Volume 3: Products and Risk Management. Atlantic Financial Press.
   - Available [Here](https://archive.org/details/interest-rate-modeling-volumes-1-2-3-andersen-l.-b.-g.-piterbarg-v.-v.-z-library/page/XIII/mode/2up)
+ 
+- Jörg Kienitz. (2014) [Interest Rate Derivatives Explained: Volume 1: Products and Markets.](https://link.springer.com/book/10.1057/9781137360076) Palgrave Macmillan.
+- Jörg Kienitz. (2017) [Interest Rate Derivatives Explained: Volume 2: Term Structure and Volatility Modellinv.](https://link.springer.com/book/10.1057/978-1-137-36019-9) Palgrave Macmillan.https://link.springer.com/book/10.1057/978-1-137-36019-9
+  - Available [Here](https://content.e-bookshelf.de/media/reading/L-10464803-8dfa9da295.pdf) 
 
 ## Time Series
 
