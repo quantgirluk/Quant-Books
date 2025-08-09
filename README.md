@@ -18,7 +18,6 @@ A curated list of must read Quant-Books
   - Available [online](https://www.google.com/search?client=safari&rls=en&q=The+Elements+of+Statistical+Learning&ie=UTF-8&oe=UTF-8) 
 
 
-
 ## Stochastic Calculus
 - Karatzas, I. and Shreve, S.E. (1991). [Brownian motion and stochastic calculus](https://link.springer.com/book/10.1007/978-1-4612-0949-2) 2nd ed. New York: Springer.
 - Øksendal, B. (2003) [Stochastic differential equations: an introduction with applications.](https://doi.org/10.1007/978-3-642-14394-6) 6th Edition, Springer, New York.
@@ -42,9 +41,13 @@ https://doi.org/10.1007/978-1-4757-4296-1
 
 ## Foundations & General Quantitative Finance
 
+- Jeanblanc, M., Yor, M. and Chesney, M. (2009) [Mathematical Methods for Financial Markets.](https://doi.org/10.1007/978-1-84628-737-4) Springer, Finance.
+  
 - Hull, J. (2014) [Options, Futures and Other Derivatives.](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) 9th Edition, Prentice Hall, Upper Saddle River.
+  
 - Privault, N. (2022). [Introduction to Stochastic Finance with Market Examples.](https://www.taylorfrancis.com/books/mono/10.1201/9781003298670/introduction-stochastic-finance-market-examples-nicolas-privault) Chapman and Hall/CRC.
 - Privault, N. (2025). [Notes on Stochastic Finance.](https://personal.ntu.edu.sg/nprivault/MA5182/introduction2.pdf)
+
 
 ## Interest Rates
 
