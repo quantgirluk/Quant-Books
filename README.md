@@ -18,7 +18,6 @@ A curated list of must read Quant-Books
 - Privault, N. (2025). [Notes on Stochastic Finance.](https://personal.ntu.edu.sg/nprivault/MA5182/introduction2.pdf)
 
 
-
 ## Interest Rates
 
 - Brigo, D. and Mercurio, F. (2006) Interest Rate Models—Theory and Practice, with Smile, Inflation and Credit. 2nd Edition, Springer, Berlin, 26-62.
@@ -54,6 +53,9 @@ A curated list of must read Quant-Books
 
 - Casella, G. and Berger, R.L. (2002) Statistical Inference. 2nd Edition, Duxbury Press, Pacific Grove.
   - Available online [(2nd Edition)](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
+- Wasserman, L. (2004) [All of Statistics: A Concise Course in Statistical Inference.](https://doi.org/10.1007/978-0-387-21736-9) Springer Science.
+  - Available [online](https://egrcc.github.io/docs/math/all-of-statistics.pdf) 
+
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://doi.org/10.1007/978-0-387-84858-7) (2nd ed.). Stanford, CA: Stanford University.
   - Available [online](https://www.google.com/search?client=safari&rls=en&q=The+Elements+of+Statistical+Learning&ie=UTF-8&oe=UTF-8) 
 
