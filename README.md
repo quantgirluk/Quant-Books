@@ -5,6 +5,8 @@ A curated list of must read Quant-Books
 
 - Bielecki, T.R. and Rutkowski, M. (2002) [Credit Risk: Modeling, Valuation and Hedging.](https://link.springer.com/book/10.1007/978-3-662-04821-4) Springer, Berlin.
 
+- O’Kane, D. (2011) [Modelling Single-Name and Multi-Name Credit Derivatives.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201960) The Wiley Finance Series. Wiley.
+
 ## Equities
 
 - Bossu, Sébastien. (2014) [Advanced Equity Derivatives : Volatility and Correlation.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118835364) 1st edition. Hoboken, New Jersey: John Wiley & Sons, Print.
