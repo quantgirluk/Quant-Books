@@ -1,6 +1,10 @@
 # Quant-Books
 A curated list of must read Quant-Books
 
+## Credit
+
+- Bielecki, T.R. and Rutkowski, M. (2002) [Credit Risk: Modeling, Valuation and Hedging.](https://link.springer.com/book/10.1007/978-3-662-04821-4) Springer, Berlin.
+
 ## Equities
 
 - Bossu, Sébastien. (2014) [Advanced Equity Derivatives : Volatility and Correlation.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118835364) 1st edition. Hoboken, New Jersey: John Wiley & Sons, Print.
