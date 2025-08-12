@@ -1,11 +1,18 @@
 # Quant-Books
 A curated list of must read Quant-Books
 
+
+## Commodities 
+
+- Bouchouev, I. (2023). [Virtual Barrels: Quantitative Trading in the Oil Market.](https://link.springer.com/book/10.1007/978-3-031-36151-7) Switzerland: Springer Nature Switzerland.
+
 ## Credit
 
 - Bielecki, T.R. and Rutkowski, M. (2002) [Credit Risk: Modeling, Valuation and Hedging.](https://link.springer.com/book/10.1007/978-3-662-04821-4) Springer, Berlin.
 
 - O’Kane, D. (2011) [Modelling Single-Name and Multi-Name Credit Derivatives.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201960) The Wiley Finance Series. Wiley.
+
+- Chaplin, G. (2012) [Credit Derivatives: Trading, Investing and Risk Management.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119208631) John Wiley & Sons, Ltd
 
 ## Equities
 
