@@ -4,7 +4,10 @@ A curated list of must read Quant-Books
 
 ## Commodities 
 
+- Clark, Iain J. (2014) [Commodity Option Pricing: A Practitioner's Guide.] Wiley
+  - Available online [Here](https://library.wbi.ac.id/repository/55.pdf) 
 - Bouchouev, I. (2023). [Virtual Barrels: Quantitative Trading in the Oil Market.](https://link.springer.com/book/10.1007/978-3-031-36151-7) Switzerland: Springer Nature Switzerland.
+
 
 ## Credit
 
