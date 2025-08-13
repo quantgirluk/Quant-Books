@@ -23,6 +23,9 @@ A curated list of must read Quant-Books
 
 - Bouzoubaa, M. (2014) [Equity Derivatives Explained.](https://link.springer.com/book/10.1057/9781137335548#accessibility-information) Palgrave Macmillan UK.
 
+## FX
+- Clark, Iain J. (2011) [Foreign Exchange Option Pricing: A Practitioner's Guide.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119208679) Wiley ISBN: 978-1-119-97860-2
+
 
 ## Foundations & General Quantitative Finance
 
